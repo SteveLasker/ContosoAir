@@ -1,0 +1,218 @@
+﻿[
+  {
+    "duration": "13h 22m",
+    "price": "479",
+    "fromCode": "SEA",
+    "toCode": "BCN",
+    "distance": "3750",
+    "segments": [
+      {
+        "flight": "935",
+        "fromCode": "SEA",
+        "fromCity": "Seattle",
+        "departTime": "2017-03-04T08:05:00Z",
+        "toCode": "CDG",
+        "toCity": "Paris",
+        "arrivalTime": "2017-03-04T12:15:00Z"
+      },
+      {
+        "flight": "851",
+        "fromCode": "CDG",
+        "fromCity": "Paris",
+        "departTime": "2017-03-04T15:00:00Z",
+        "toCode": "BCN",
+        "toCity": "Barcelona",
+        "arrivalTime": "2017-03-05T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "duration": "10h 15m",
+    "price": "543",
+    "fromCode": "SEA",
+    "toCode": "BCN",
+    "distance": "3750",
+    "segments": [
+      {
+        "flight": "335",
+        "fromCode": "SEA",
+        "fromCity": "Seattle",
+        "departTime": "2017-03-04T09:05:00Z",
+        "toCode": "JFK",
+        "toCity": "New York",
+        "arrivalTime": "2017-03-04T14:15:00Z"
+      },
+      {
+        "flight": "251",
+        "fromCode": "JFK",
+        "fromCity": "New York",
+        "departTime": "2017-03-04T17:00:00Z",
+        "toCode": "BCN",
+        "toCity": "Barcelona",
+        "arrivalTime": "2017-03-05T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "duration": "08h 15m",
+    "price": "498",
+    "fromCode": "SEA",
+    "toCode": "BCN",
+    "distance": "4150",
+    "segments": [
+      {
+        "flight": "125",
+        "fromCode": "SEA",
+        "fromCity": "Seattle",
+        "departTime": "2017-03-04T08:05:00Z",
+        "toCode": "TOR",
+        "toCity": "Toronto",
+        "arrivalTime": "2017-03-04T13:15:00Z"
+      },
+      {
+        "flight": "121",
+        "fromCode": "TOR",
+        "fromCity": "Toronto",
+        "departTime": "2017-03-04T15:00:00Z",
+        "toCode": "BCN",
+        "toCity": "Barcelona",
+        "arrivalTime": "2017-03-05T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "duration": "09h 45m",
+    "price": "567",
+    "fromCode": "SEA",
+    "toCode": "BCN",
+    "distance": "3750",
+    "segments": [
+      {
+        "flight": "11",
+        "fromCode": "SEA",
+        "fromCity": "Seattle",
+        "departTime": "2017-03-04T08:05:00Z",
+        "toCode": "BOS",
+        "toCity": "Boston",
+        "arrivalTime": "2017-03-04T13:15:00Z"
+      },
+      {
+        "flight": "851",
+        "fromCode": "BOS",
+        "fromCity": "Boston",
+        "departTime": "2017-03-04T15:00:00Z",
+        "toCode": "BCN",
+        "toCity": "Barcelona",
+        "arrivalTime": "2017-03-05T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "duration": "11h 20m",
+    "price": "608",
+    "fromCode": "SEA",
+    "toCode": "BCN",
+    "distance": "4150",
+    "segments": [
+      {
+        "flight": "233",
+        "fromCode": "SEA",
+        "fromCity": "Seattle",
+        "departTime": "2017-03-04T08:05:00Z",
+        "toCode": "JFK",
+        "toCity": "New York",
+        "arrivalTime": "2017-03-04T14:15:00Z"
+      },
+      {
+        "flight": "844",
+        "fromCode": "JFK",
+        "fromCity": "New York",
+        "departTime": "2017-03-04T15:00:00Z",
+        "toCode": "BCN",
+        "toCity": "Barcelona",
+        "arrivalTime": "2017-03-05T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "duration": "11h 25m",
+    "price": "577",
+    "fromCode": "SEA",
+    "toCode": "BCN",
+    "distance": "3750",
+    "segments": [
+      {
+        "flight": "935",
+        "fromCode": "SEA",
+        "fromCity": "Seattle",
+        "departTime": "2017-03-04T08:05:00Z",
+        "toCode": "JFK",
+        "toCity": "New York",
+        "arrivalTime": "2017-03-04T13:15:00Z"
+      },
+      {
+        "flight": "851",
+        "fromCode": "JFK",
+        "fromCity": "New York",
+        "departTime": "2017-03-04T15:00:00Z",
+        "toCode": "BCN",
+        "toCity": "Barcelona",
+        "arrivalTime": "2017-03-05T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "duration": "15h 45m",
+    "price": "560",
+    "fromCode": "BCN",
+    "toCode": "SEA",
+    "distance": "3450",
+    "segments": [
+      {
+        "flight": "698",
+        "fromCode": "BCN",
+        "fromCity": "Barcelona",
+        "departTime": "2017-03-04T02:30:00Z",
+        "toCode": "FRA",
+        "toCity": "Frankfurt",
+        "arrivalTime": "2017-03-04T04:40:00Z"
+      },
+      {
+        "flight": "851",
+        "fromCode": "FRA",
+        "fromCity": "Frankfurt",
+        "departTime": "2017-03-04T07:30:00Z",
+        "toCode": "SEA",
+        "toCity": "Seattle",
+        "arrivalTime": "2017-03-04T09:15:00Z"
+      }
+    ]
+  },
+  {
+    "duration": "10h 15m",
+    "price": "701",
+    "fromCode": "BCN",
+    "toCode": "SEA",
+    "distance": "3450",
+    "segments": [
+      {
+        "flight": "335",
+        "fromCode": "BCN",
+        "fromCity": "Barcelona",
+        "departTime": "2017-03-04T09:05:00Z",
+        "toCode": "FRA",
+        "toCity": "Frankfurt",
+        "arrivalTime": "2017-03-04T14:15:00Z"
+      },
+      {
+        "flight": "251",
+        "fromCode": "FRA",
+        "fromCity": "Frankfurt",
+        "departTime": "2017-03-04T17:00:00Z",
+        "toCode": "SEA",
+        "toCity": "Seattle",
+        "arrivalTime": "2017-03-04T09:00:00Z"
+      }
+    ]
+  }
+]

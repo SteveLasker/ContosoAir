@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  contosoair.site:
+    image: contosoair.site
+    build:
+      context: .
+      dockerfile: ContosoAir.Site/Dockerfile
+    depends_on:
+      - sqldata
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Production=false
+      - Api_url=/api
+      - Adal__Tenant=contosoairb2c.onmicrosoft.com
+      - Adal__ClientId=ff60041f-a2b7-4e2a-a998-8fa949d5e1ee
+      - Adal__ExtraQueryParameter=p=B2C_1_SignUpInPolicy&scope=openid
+      - ConnectionStrings__DefaultConnection=Server=sqldata;Database=ContosoAir;User=sa;Password=Pass@word
+  sqldata:
+    image: microsoft/mssql-server-linux
+    environment:
+      - SA_PASSWORD=Pass@word
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Developer
+    ports:
+      - "5433:1433"
